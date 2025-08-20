@@ -67,6 +67,56 @@ streamlit run app.py
 
 ---
 
+**🔹 Key Insights**
+
+	•	XGBoost outperformed Logistic Regression & Random Forest.
+	•	Threshold tuning significantly improved results for the minority class (defaulters).
+	•	Limitations:
+	•	Precision and recall for defaulters remain relatively low due to dataset imbalance.
+	•	Model may miss some defaulters, which can be costly in real banking scenarios.
+	•	Future focus: handling imbalance (SMOTE, class weights), cost-sensitive learning, and advanced models.
+
+**✨ Verdict:**
+This is a strong baseline model (83% accuracy with threshold tuning).
+Further improvements are needed for production-level deployment in financial institutions.
+
+⸻
+
+**🚀 Future Improvements**
+	•	Apply SMOTE / class weighting for better handling of imbalance
+	•	Perform advanced hyperparameter tuning (GridSearchCV / RandomizedSearchCV)
+	•	Deploy with Docker / Cloud (AWS, GCP, Azure)
+	•	Add monitoring for model drift in production
+	•	Explore ensemble stacking or deep learning methods
+
+⸻
+
+**📸 Screenshots**
+
+<img width="1896" height="861" alt="image" src="https://github.com/user-attachments/assets/6f1e3f10-f7c9-426d-b598-00ec5280b6f7" />
+
+⸻
+
+**🤝 Contributing**
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+⸻
+
+**📜 License**
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+⸻
+
+**🙋‍♀️ About Me**
+
+Hi, I’m Chandrakala Somanath Chippa 👋
+	•	🎓 PGP in AIML from Austin University, Texas
+	•	💼 7+ years experience in Finance (TCS, Gallagher, Propark Mobility)
+	•	🤖 Passionate about AI/ML, Data Science & Model Deployment
+	•	🌐 [(https://www.linkedin.com/in/chandrakala-chippa-402529280/?trk=PROFILE_DROP_DOWN] | [https://github.com/chandra1024448/loan-default-prediction/edit/main]
 
 ```bash
 # Clone repo
