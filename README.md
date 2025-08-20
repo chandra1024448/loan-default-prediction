@@ -36,6 +36,35 @@ Multiple algorithms were tested (Logistic Regression, Random Forest, XGBoost), a
 ## ⚙️ Installation & Usage
 Clone this repository and install dependencies:
 
+---
+
+## **Run Streamlit App**
+streamlit run app.py
+
+---
+
+## 📊**Result & Insights**
+
+🔹 Model Performance (Default Threshold = 0.5)
+	•	Accuracy: ~72%
+	•	Precision (Defaulters = 1): 0.23
+	•	Recall (Defaulters = 1): 0.62
+	•	F1-Score (Defaulters = 1): 0.34
+
+➡️ The model captures many defaulters (high recall) but also produces a high number of false positives (low precision).
+
+⸻
+
+🔹 After Threshold Optimization (Best = 0.65)
+	•	Accuracy: ~83%
+	•	Precision (Defaulters = 1): 0.31
+	•	Recall (Defaulters = 1): 0.41
+	•	F1-Score (Defaulters = 1): 0.36
+
+➡️ Increasing the threshold improves accuracy and balances precision/recall better.
+➡️ False positives reduce, while still catching a reasonable portion of defaulters.
+
+---
 
 
 ```bash
@@ -48,6 +77,5 @@ pip install -r requirements.txt
 
 ---
 
-****Run Streamlit App**
-**Run Streamlit App**
+
 
