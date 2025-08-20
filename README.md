@@ -62,6 +62,7 @@ streamlit run app.py
 	•	F1-Score (Defaulters = 1): 0.36
 
 ➡️ Increasing the threshold improves accuracy and balances precision/recall better.
+
 ➡️ False positives reduce, while still catching a reasonable portion of defaulters.
 
 ---
