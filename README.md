@@ -114,9 +114,13 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 Hi, I’m Chandrakala Somanath Chippa 👋
 	•	🎓 PGP in AIML from Austin University, Texas
+ 
 	•	💼 7+ years experience in Finance (TCS, Gallagher, Propark Mobility)
+ 
 	•	🤖 Passionate about AI/ML, Data Science & Model Deployment
-	•	🌐 [(https://www.linkedin.com/in/chandrakala-chippa-402529280/?trk=PROFILE_DROP_DOWN] | [https://github.com/chandra1024448/loan-default-prediction/edit/main]
+ 
+	•	🌐 [(https://www.linkedin.com/in/chandrakala-chippa-402529280/?trk=PROFILE_DROP_DOWN] |
+ 			[https://github.com/chandra1024448/loan-default-prediction/edit/main]
 
 ```bash
 # Clone repo
