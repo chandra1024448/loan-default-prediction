@@ -40,8 +40,14 @@ Clone this repository and install dependencies:
 
 ```bash
 # Clone repo
-git clone [https://github.com/chandra1024448/loan-default-prediction/new/main]
+git clone - https://github.com/chandra1024448/loan-default-prediction/new/main
 cd loan-default-prediction
 
 # Install dependencies
 pip install -r requirements.txt
+
+---
+
+## Run Streamlit App
+
+
