@@ -113,6 +113,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 **🙋‍♀️ About Me**
 
 Hi, I’m Chandrakala Somanath Chippa 👋
+
 	•	🎓 PGP in AIML from Austin University, Texas
  
 	•	💼 7+ years experience in Finance (TCS, Gallagher, Propark Mobility)
